@@ -1,2 +1,4 @@
-test file
+This is the 3rd file to be commited to github:
+
+Hello devops learners!!
 
