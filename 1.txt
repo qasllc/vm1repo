@@ -3,7 +3,7 @@ this is my first commit file on devops training with
 Intellipaat. 
 extending greetings to all intellipaat learners.
 I highly recommend intellipaat for all your
-computing systems training needs.
+computing systems training needs!!
 
 
 
